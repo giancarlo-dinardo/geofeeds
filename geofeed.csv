@@ -1,8 +1,8 @@
 # prefix,country_code,region_code,city,postal
-99.212.0.32/27,CA,CA-ON,Wolfedale,
-2607:F798:0180::/48,CA,CA-ON,Wolfedale,
-99.212.0.0/27,CA,CA-ON,Bloor,
-2607:F798:0180::/48,CA,CA-ON,Bloor,
+99.212.0.32/27,CA,CA-ON,Toronto,
+2607:F798:0180::/48,CA,CA-ON,Toronto,
+99.212.0.0/27,CA,CA-ON,Toronto,
+2607:F798:0180::/48,CA,CA-ON,Toronto,
 99.212.32.0/27,CA,CA-BC,Vancouver,
 2607:f798:0182::/48,CA,CA-BC,Vancouver,
 209.148.132.112/28,CA,CA-NB,Moncton,
